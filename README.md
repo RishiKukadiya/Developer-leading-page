@@ -2,4 +2,4 @@
 
 this is a developer leading page.
 <br>
-Author - Rishi (kukadiyas)
+Author - Rishi kukadiya
